@@ -1,7 +1,7 @@
 # korean-recipes 🇰🇷🍚
 This is a demo website I created from scratch.
 
-This holds my mothers's korean recipes including SHRIMP JEON, ACORN MOOK, and STEWED BEEF JJIM
+The perfect side dishes to rice--SHRIMP JEON, ACORN MOOK, and STEWED BEEF JJIM--from my mother's recipes.
 
 Alongside culinary skills, I also learned these skills in HTML/CSS:
 - HTML: boilerplate, link different pages, add images, create lists
