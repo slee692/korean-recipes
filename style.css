@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    padding: 8px;
+    align-items: center;
+    justify-content: center;
+    color:royalblue;
+    font-family: Monaco, sans-serif;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 0 8px rgba(0,0,0,.1);
+}
+.food {
+    display: flex;
+    padding: 8px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 0 8px rgba(0,0,0,.1);
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+.cropped {
+    object-position: 5px 10px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px
+}
